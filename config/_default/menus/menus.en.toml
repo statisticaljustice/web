@@ -1,0 +1,73 @@
+# --- OUR WORK ---
+[[main]]
+  name = "Our Work"
+  pageRef = "/our-work"
+  weight = 10
+
+# --- THE FRAMEWORK ---
+[[main]]
+  name = "The Framework"
+  pageRef = "/the-framework"
+  weight = 20
+
+# --- PUBLICATIONS (Parent) ---
+[[main]]
+  name = "Publications"
+  identifier = "publications"
+  pageRef = "/publications"
+  weight = 30
+
+[[main]]
+  name = "Academic Papers"
+  parent = "publications"
+  pageRef = "/publications/academic-papers"
+  weight = 30
+
+[[main]]
+  name = "Op-Eds"
+  parent = "publications"
+  pageRef = "/publications/op-eds"
+  weight = 30
+
+[[main]]
+  name = "Policy Briefs"
+  parent = "publications"
+  pageRef = "/publications/policy-brief"
+  weight = 30
+
+# --- RESOURCES (Parent) ---
+[[main]]
+  name = "Resources"
+  identifier = "resources"
+  pageRef = "/resources"
+  weight = 40
+
+[[main]]
+  name = "MOOC"
+  parent = "resources"
+  pageRef = "/resources/mooc"
+  weight = 40
+
+[[main]]
+  name = "Podcast"
+  parent = "resources"
+  pageRef = "/resources/podcast"
+  weight = 40
+
+[[main]]
+  name = "Short Film Series"
+  parent = "resources"
+  pageRef = "/resources/short-film-series"
+  weight = 40
+
+[[main]]
+  name = "The Book"
+  parent = "resources"
+  pageRef = "/resources/the-book"
+  weight = 40
+
+# --- CONTACT US ---
+[[main]]
+  name = "Contact Us"
+  pageRef = "/contact-us"
+  weight = 50

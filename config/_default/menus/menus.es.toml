@@ -1,0 +1,69 @@
+[[main]]
+  name = "Nuestro Trabajo"
+  pageRef = "/nuestro-trabajo"
+  weight = 10
+
+[[main]]
+  name = "Marco Teórico"
+  identifier = "marco-teorico"
+  pageRef = "/marco-teorico"
+  weight = 20
+
+[[main]]
+  name = "Publicaciones"
+  identifier = "publicaciones"
+  pageRef = "/publicaciones"
+  weight = 30
+
+[[main]]
+  name = "Artículos Académicos"
+  parent = "publicaciones"
+  pageRef = "/publicaciones/articulos-academicos"
+  weight = 30
+
+[[main]]
+  name = "Política Pública"
+  parent = "publicaciones"
+  pageRef = "/publicaciones/politica-publica"
+  weight = 30
+
+[[main]]
+  name = "Artículos de Opinión"
+  parent = "publicaciones"
+  pageRef = "/publicaciones/articulos-de-opinion"
+  weight = 30
+
+[[main]]
+  name = "Recursos"
+  identifier = "recursos"
+  pageRef = "/recursos"
+  weight = 40
+
+[[main]]
+  name = "MOOC"
+  parent = "recursos"
+  pageRef = "/recursos/el-mooc"
+  weight = 1
+
+[[main]]
+  name = "Podcast"
+  parent = "recursos"
+  pageRef = "/podcast"
+  weight = 2
+
+[[main]]
+  name = "Cortometrajes"
+  parent = "recursos"
+  pageRef = "/cortometrajes"
+  weight = 3
+
+[[main]]
+  name = "El Libro"
+  parent = "recursos"
+  pageRef = "/el-libro"
+  weight = 4
+
+[[main]]
+  name = "Contáctanos"
+  pageRef = "/contactanos"
+  weight = 50
