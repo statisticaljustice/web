@@ -5,7 +5,7 @@ weight = 2
 title = "Justicia Estadística"
 
 [params]
-  displayName = "ES"
+  displayName = "Español"
   isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
@@ -14,14 +14,14 @@ title = "Justicia Estadística"
   description = "Justicia Estadística | El derecho a ser reconocido en datos oficiales | Marco teórico sobre el derecho a ser reconocido en los sistemas gubernamentales y que los datos oficiales reflejen la diversidad real de las sociedades."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+ [params.author]
+#  name = "Justicia Estadística"
+#  email = "mail@sj.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+   headline = "Un marco desarrollado a partir del trabajo en Colombia y diseñado para viajar a través de distintos contextos."
+#  bio = "El derecho a ser reconocido en los sistemas gubernamentales, y que los datos oficiales reflejen la verdadera diversidad de las sociedades."
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -76,4 +76,4 @@ title = "Justicia Estadística"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]

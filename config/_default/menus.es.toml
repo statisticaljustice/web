@@ -1,0 +1,68 @@
+[[main]]
+  name = "Nuestro Trabajo"
+  pageRef = "/our-work"
+  weight = 10
+
+[[main]]
+  name = "El Marco"
+  pageRef = "/the-framework"
+  weight = 20
+
+[[main]]
+  name = "Publicaciones"
+  identifier = "publications"
+  pageRef = "/publications"
+  weight = 30
+
+[[main]]
+  name = "Artículos Académicos"
+  parent = "publications"
+  pageRef = "/publications/academic-papers"
+  weight = 1
+
+[[main]]
+  name = "Artículos de Opinión"
+  parent = "publications"
+  pageRef = "/publications/op-eds"
+  weight = 2
+
+[[main]]
+  name = "Política Pública"
+  parent = "publications"
+  pageRef = "/publications/policy-briefs"
+  weight = 3
+
+[[main]]
+  name = "Recursos"
+  identifier = "resources"
+  pageRef = "/resources"
+  weight = 40
+
+[[main]]
+  name = "MOOC"
+  parent = "resources"
+  pageRef = "/resources/mooc"
+  weight = 1
+
+[[main]]
+  name = "Podcast"
+  parent = "resources"
+  pageRef = "/resources/podcast"
+  weight = 2
+
+[[main]]
+  name = "Cortometrajes"
+  parent = "resources"
+  pageRef = "/resources/short-film-series"
+  weight = 3
+
+[[main]]
+  name = "El Libro"
+  parent = "resources"
+  pageRef = "/resources/the-book"
+  weight = 4
+
+[[main]]
+  name = "Contáctanos"
+  pageRef = "/contact-us"
+  weight = 50

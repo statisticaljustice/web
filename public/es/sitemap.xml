@@ -3,78 +3,198 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/web/es/publicaciones/articulos-academicos/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/publicaciones/articulos-de-opinion/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/contactanos/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/recursos/cortometrajes/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/recursos/el-libro/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/recursos/mooc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/publicaciones/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/es/</loc>
+    <loc>http://localhost:37367/web/es/publications/academic-papers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/web/"
+      href="http://localhost:37367/web/publications/academic-papers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/web/es/"
+      href="http://localhost:37367/web/es/publications/academic-papers/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/web/es/marco-teorico/</loc>
+    <loc>http://localhost:37367/web/es/publications/op-eds/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/publications/op-eds/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/publications/op-eds/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/web/es/recursos/</loc>
+    <loc>http://localhost:37367/web/es/contact-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/contact-us/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/contact-us/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/web/es/nuestro-trabajo/</loc>
+    <loc>http://localhost:37367/web/es/resources/short-film-series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/resources/short-film-series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/resources/short-film-series/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/web/es/recursos/podcast/</loc>
+    <loc>http://localhost:37367/web/es/resources/the-book/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/resources/the-book/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/resources/the-book/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/web/es/publicaciones/politica-publica/</loc>
+    <loc>http://localhost:37367/web/es/the-framework/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/the-framework/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/the-framework/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/resources/mooc/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/resources/mooc/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/resources/mooc/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/publications/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/publications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/publications/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/resources/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/resources/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/resources/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/our-work/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/our-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/our-work/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/resources/podcast/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/resources/podcast/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/resources/podcast/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:37367/web/es/publications/policy-briefs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:37367/web/publications/policy-briefs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:37367/web/es/publications/policy-briefs/"
+    />
   </url>
 </urlset>

@@ -4,15 +4,8 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://statisticaljustice.github.io/web/"
-languageCode = "en"
-
+defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-
-[languages.en]
-  contentDir = "content/en"
-  
-[languages.es]
-  contentDir = "content/es"
 
 enableRobotsTXT = true
 summaryLength = 0

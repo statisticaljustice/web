@@ -5,7 +5,7 @@ weight = 1
 title = "Statistical Justice"
 
 [params]
-  displayName = "EN"
+  displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
@@ -14,14 +14,14 @@ title = "Statistical Justice"
   description = "The Right to be Recognized in Official Data | framework exploring the right to be recognized in government systems and ensuring official data reflects the true diversity of societies."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+ [params.author]
+#  name = "Statistical Justice"
+#  email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+   headline = "A framework developed from work in Colombia and designed to travel across contexts."
+#   bio = "The Right to be Recognized in Official Data | framework exploring the right to be recognized in government systems and ensuring official data reflects the true diversity of societies."
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -76,4 +76,4 @@ title = "Statistical Justice"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]
