@@ -1,112 +1,86 @@
 # -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
+# Optimizado para diseño minimalista y limpio
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "noir" # valid options: forest, ocean, desert, dawn, dusk, night, coal, snow, custom
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "noir"
+defaultAppearance = "light"
 autoSwitchAppearance = true
 
-enableA11y = false
+enableA11y = true  # ACTIVADO: accesibilidad es importante para justicia
 enableSearch = true
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
-enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
+enableStyledScrollbar = true
 
 replyByEmail = false
-
-# mainSections = ["section1", "section2"]
-# robots = ""
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultSocialImage = "/android-chrome-512x512.png"
 hotlinkFeatureImage = false
-# Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
-# thumbnailAspectRatio = "1.5"
-# imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
-
-fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
+fingerprintAlgorithm = "sha512"
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [seo]
-# metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
+# Mantener limpio - no necesita metaDescriptionOrder personalizado
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed"  # Mantiene la navegación accesible
 
 [footer]
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
-  showScrollToTop = true
+  showScrollToTop = false  # Minimalismo: menos elementos
 
+# ===== HOMEPAGE - Lo más importante =====
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
-# homepageImage = "img/home.webp" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-#  showMoreLink = true
-#  showMoreLinkDest = "/our-work"
-  cardView = true
-  cardViewScreenWidth = true
-  layoutBackgroundBlur = true # only used when layout equals background
-  disableHeroImageFilter = true # only used when layout equals hero
+  layout = "page"  # CLAVE: 'page' es lo más limpio y controlable
+  showRecent = false  # No quieres contenido autogenerado
+  cardView = false  # DESACTIVADO: queremos estructura simple, no cards
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
+  disableHeroImageFilter = true
 
+# ===== ARTICLE (para páginas de contenido) =====
 [article]
-  showDate = true
+  showDate = false  # Minimalismo: sin ruido de fechas
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
-  # showAuthorBottom = false
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showAuthor = false  # Mantener limpio
+  showHero = false  # Sin imágenes gigantes
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false  # En production
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = true
+  showHeadingAnchors = false  # Minimalismo: sin visual anchors
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false  # Sin ruido
   showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false # Enable the display of taxonomies for the related article.
-  showCategories = true # These will show if showTaxonomies is true.
-  showTags = true # These will show if showTaxonomies is true.
-  showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
+  showTaxonomies = false
+  showCategories = false
+  showTags = false
   showAuthorsBadges = false
-  showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
+  showWordCount = false
   showZenMode = false
-  # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
+# ===== LIST (para páginas de publicaciones, recursos, etc) =====
 [list]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = false
   showViews = false
@@ -114,8 +88,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = false
   showCards = false
   orderByWeight = false
-  groupByYear = true
-  cardView = false
+  groupByYear = false  # Simple list, sin agrupar
+  cardView = false  # Estructura limpia
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -123,11 +97,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -136,58 +109,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
 
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
-
-[selineAnalytics]
-  # token = "XXXXXX"
-  # enableTrackEvent = true
-
-[buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "right"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
-  # fediverse = ""
-
-[rssnext]
-  # feedId = ""
-  # userId = ""
-
-[advertisement]
-  # adsense = ""
+# Mantener analytics/verification comentado para producción
