@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://statisticaljustice.github.io/web/sitemap.xml
