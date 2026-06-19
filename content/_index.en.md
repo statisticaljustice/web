@@ -10,8 +10,6 @@ A framework developed from work in Colombia and designed to travel across contex
 
 {{< button href="/the-framework" >}}Explore the Framework{{< /button >}}&nbsp;&nbsp;{{< button href="/publications" style="outline" >}}Read the Research{{< /button >}}
 
-{{< figure src="home.webp" alt="Banner Principal" width="100" class="img-fluid mb-4" >}}
-
 ---
 
 ## The Problem
@@ -25,6 +23,8 @@ When official data does not reflect people as they are, inequality becomes harde
 While the framework was born from this work in Colombia, it was designed to travel. **Statistical Justice offers a way to think across contexts, populations, and data systems about what happens when recognition fails** — and what it would take for official data to more fully reflect the diversity of societies.
 
 ---
+
+{{< figure src="home.webp" alt="Banner Principal" width="100" class="img-fluid mb-4" >}}
 
 ## Explore Our Work
 

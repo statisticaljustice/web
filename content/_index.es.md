@@ -11,8 +11,6 @@ Un marco desarrollado a partir del trabajo en Colombia y diseñado para viajar a
 
 {{< button href="/es/marco-teorico" >}}Explora el Marco{{< /button >}}&nbsp;&nbsp;{{< button href="/es/publicaciones" style="outline" >}}Lee la Investigación{{< /button >}}
 
-{{< figure src="home.webp" alt="Banner Principal" width="100" class="img-fluid mb-4" >}}
-
 ---
 
 ## El Problema
@@ -26,6 +24,8 @@ Cuando los datos oficiales no reflejan a las personas tal como son, la desiguald
 Si bien el marco nació de este trabajo en Colombia, fue diseñado para viajar. **Justicia Estadística ofrece una forma de pensar a través de contextos, poblaciones y sistemas de datos sobre lo que sucede cuando falla el reconocimiento** — y lo que se necesitaría para que los datos oficiales reflejen más plenamente la diversidad de las sociedades.
 
 ---
+
+{{< figure src="home.webp" alt="Banner Principal" width="100" class="img-fluid mb-4" >}}
 
 ## Explora Nuestro Trabajo
 

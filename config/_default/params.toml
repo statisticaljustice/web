@@ -41,8 +41,8 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
-# homepageImage = "img/home.webp" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/academicPapers.webp" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
 #  showMoreLink = true
