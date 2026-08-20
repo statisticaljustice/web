@@ -11,7 +11,7 @@ title = "Statistical Justice"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "The Right to be Recognized in Official Data | framework exploring the right to be recognized in government systems and ensuring official data reflects the true diversity of societies."
+  description = "The Right to be Recognized in Official Datato be recognized in government systems and ensuring official data reflects the true diversity of societies."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,7 +19,7 @@ title = "Statistical Justice"
 #  email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-   headline = "A framework developed from work in Colombia and designed to travel across contexts."
+   headline = "The right to be recognized in government systems, and for official data to reflect the true diversity of societies."
 #   bio = "The Right to be Recognized in Official Data | framework exploring the right to be recognized in government systems and ensuring official data reflects the true diversity of societies."
    links = [
 #     { email = "mailto:hello@your_domain.com" },

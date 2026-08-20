@@ -74,7 +74,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # Enable the display of taxonomies for the related article.
@@ -96,7 +96,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = false
   orderByWeight = false
   groupByYear = true
@@ -116,7 +116,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   cardView = false
 
 [term]

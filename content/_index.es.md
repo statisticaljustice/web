@@ -1,38 +1,68 @@
 +++
 title = "Justicia Estadística"
-description = "El derecho a ser reconocido en los sistemas gubernamentales, y que los datos oficiales reflejen la verdadera diversidad de las sociedades."
+description = "El derecho a ser reconocido en los sistemas gubernamentales, y a que los datos oficiales reflejen la verdadera diversidad de las sociedades."
 layout = "page"
 +++
 {{< lead >}}
-**El derecho a ser reconocido en los sistemas gubernamentales, y que los datos oficiales reflejen la verdadera diversidad de las sociedades.**
+**Un marco de trabajo desarrollado a partir de experiencias en Colombia y diseñado para aplicarse en diversos contextos.**
 {{< /lead >}}
 
-Un marco desarrollado a partir del trabajo en Colombia y diseñado para viajar a través de distintos contextos.
+{{< button href="https://statisticaljustice.github.io/web/the-framework/" >}}Explora el Marco de Trabajo{{< /button >}}
 
-{{< button href="/es/marco-teorico" >}}Explora el Marco{{< /button >}}&nbsp;&nbsp;{{< button href="/es/publicaciones" style="outline" >}}Lee la Investigación{{< /button >}}
+<br>
+<br>
+
+
+{{< button href="https://statisticaljustice.github.io/web/publications/academic-papers/" style="outline" >}}Lee la Investigación{{< /button >}}
+
+---
+
+{{< youtubeLite id="P_OEIvD5AUk" label="¡Ser invisibles en las estadísticas vitales no es un error técnico!" >}}
 
 ---
 
 ## El Problema
 
-Justicia Estadística surgió del trabajo en Colombia con comunidades transgénero. Nació de un problema simple pero urgente: muchas personas trans no son reconocidas adecuadamente en los sistemas oficiales destinados a contarlas.
+Los sistemas de datos oficiales no siempre reconocen a las personas tal como son. Las personas trans y no binarias pueden ser registradas con nombres, marcadores de género o categorías que no reflejan sus identidades ni sus realidades vividas.
 
-En los registros oficiales, las personas pueden ser inscritas con el nombre equivocado, el género incorrecto, o de maneras que no reflejan quiénes eran. Esto no es solo un error técnico. Es una falla profunda de reconocimiento y gobernanza.
+Estos no son simples errores técnicos. Los datos oficiales determinan lo que los gobiernos pueden ver, medir, financiar y atender. Cuando el reconocimiento falla, las desigualdades se vuelven más difíciles de rastrear, la violencia y la exclusión pueden desaparecer de las estadísticas oficiales, y las políticas públicas se construyen sobre representaciones incompletas de la sociedad.
 
-Cuando los datos oficiales no reflejan a las personas tal como son, la desigualdad se vuelve más difícil de rastrear, la acción pública más difícil de moldear, y el daño institucional más fácil de ignorar.
-
-Si bien el marco nació de este trabajo en Colombia, fue diseñado para viajar. **Justicia Estadística ofrece una forma de pensar a través de contextos, poblaciones y sistemas de datos sobre lo que sucede cuando falla el reconocimiento** — y lo que se necesitaría para que los datos oficiales reflejen más plenamente la diversidad de las sociedades.
+La Justicia Estadística aborda una pregunta fundamental: ¿quién es reconocido en los sistemas gubernamentales, bajo qué términos y con qué consecuencias? Este marco de trabajo ayuda a examinar cómo los datos oficiales pueden reflejar mejor la diversidad de las sociedades al mismo tiempo que promueven el reconocimiento, la redistribución y la protección.
 
 ---
 
-{{< figure src="home.webp" alt="Banner Principal" width="100" class="img-fluid mb-4" >}}
-
 ## Explora Nuestro Trabajo
 
-**[El Marco Teórico](/es/marco-teorico)** — Una introducción al concepto de justicia estadística, sus dimensiones, y las ideas clave que la fundamentan.
+[**El Marco de Trabajo**](https://statisticaljustice.github.io/web/the-framework/)
+<br>
+Una introducción al concepto de justicia estadística, sus dimensiones y las ideas clave que le dan forma.
 
-**[Publicaciones](/es/publicaciones)** — Artículos académicos, documentos técnicos, informes de política pública, y escritos públicos.
+[**Publicaciones**](https://statisticaljustice.github.io/web/publications/)
+<br>
+Artículos académicos, documentos técnicos, resúmenes de políticas públicas y escritos de divulgación.
 
-**[Recursos](/es/recursos)** — Materiales de aprendizaje, podcast, cortometrajes, y el libro en desarrollo.
+[**Recursos**](https://statisticaljustice.github.io/web/resources/)
+<br>
+Materiales de aprendizaje, pódcasts y otros recursos.
 
-**[Contáctanos](/es/contactanos)** — Ponte en contacto con nosotros.
+[**Contáctanos**](https://statisticaljustice.github.io/web/contact-us/)
+<br>
+Ponte en contacto.
+
+---
+
+{{< badge >}}
+Justicia Estadística ha sido desarrollada por:
+{{< /badge >}} 
+
+{{< gallery >}}
+  {{< figure src="img/logoligadesaludtrans.webp" alt="Logo Liga de Salud Trans" figureClass="grid-w40" >}}
+{{< /gallery >}}
+<br>
+{{< badge >}}
+Con el apoyo de:
+{{< /badge >}}
+
+{{< gallery >}}
+{{< figure src="img/logouniandes.webp" alt="Logo Universidad Los Andes" figureClass="grid-w100 md:grid-w40">}}
+{{< /gallery >}}

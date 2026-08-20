@@ -51,13 +51,13 @@
   weight = 2
 
 [[main]]
-  name = "Short Film Series"
+  name = "Advocacy Toolkit"
   parent = "resources"
-  pageRef = "/resources/short-film-series"
+  pageRef = "/resources/advocacy-toolkit"
   weight = 3
 
 [[main]]
-  name = "The Book"
+  name = "The Book Projects"
   parent = "resources"
   pageRef = "/resources/the-book"
   weight = 4

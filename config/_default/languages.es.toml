@@ -11,7 +11,7 @@ title = "Justicia Estadística"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Justicia Estadística | El derecho a ser reconocido en datos oficiales | Marco teórico sobre el derecho a ser reconocido en los sistemas gubernamentales y que los datos oficiales reflejen la diversidad real de las sociedades."
+  description = "El derecho a ser reconocido en los sistemas gubernamentales y a que los datos oficiales reflejen la verdadera diversidad de las sociedades."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,7 +19,7 @@ title = "Justicia Estadística"
 #  email = "mail@sj.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-   headline = "Un marco desarrollado a partir del trabajo en Colombia y diseñado para viajar a través de distintos contextos."
+   headline = "El derecho a ser reconocido en los sistemas gubernamentales y a que los datos oficiales reflejen la verdadera diversidad de las sociedades."
 #  bio = "El derecho a ser reconocido en los sistemas gubernamentales, y que los datos oficiales reflejen la verdadera diversidad de las sociedades."
    links = [
 #     { email = "mailto:hello@your_domain.com" },

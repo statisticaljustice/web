@@ -18,36 +18,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/web/contact-us/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/web/es/contact-us/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/web/contact-us/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/web/resources/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/web/es/resources/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/web/resources/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/web/publications/op-eds/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -60,6 +30,51 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/web/publications/op-eds/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/web/publications/policy-briefs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/web/es/publications/policy-briefs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/web/publications/policy-briefs/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/web/resources/advocacy-toolkit/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/web/es/resources/advocacy-toolkit/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/web/resources/advocacy-toolkit/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/web/contact-us/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/web/es/contact-us/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/web/contact-us/"
     />
   </url>
   <url>
@@ -93,21 +108,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/web/publications/policy-briefs/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/web/es/publications/policy-briefs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/web/publications/policy-briefs/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/web/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -123,18 +123,18 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/web/resources/short-film-series/</loc>
+    <loc>http://localhost:1313/web/resources/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/web/es/resources/short-film-series/"
+      href="http://localhost:1313/web/es/resources/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/web/resources/short-film-series/"
+      href="http://localhost:1313/web/resources/"
     />
   </url>
   <url>

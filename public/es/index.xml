@@ -9,5 +9,105 @@
     <copyright>© 2026 </copyright>
     <atom:link href="http://localhost:1313/web/es/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Artículos Académicos</title>
+      <link>http://localhost:1313/web/es/publications/academic-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/publications/academic-papers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Artículos de Opinión</title>
+      <link>http://localhost:1313/web/es/publications/op-eds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/publications/op-eds/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resúmenes de Políticas / Documentos Técnicos</title>
+      <link>http://localhost:1313/web/es/publications/policy-briefs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/publications/policy-briefs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contáctanos</title>
+      <link>http://localhost:1313/web/es/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/contact-us/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>El Marco de Trabajo</title>
+      <link>http://localhost:1313/web/es/the-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/the-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>El MOOC</title>
+      <link>http://localhost:1313/web/es/resources/mooc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/resources/mooc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kit de Incidencia</title>
+      <link>http://localhost:1313/web/es/resources/advocacy-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/resources/advocacy-toolkit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nuestro Trabajo</title>
+      <link>http://localhost:1313/web/es/our-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/our-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pódcasts y Conversaciones Públicas</title>
+      <link>http://localhost:1313/web/es/resources/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/resources/podcast/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Proyectos de Libros</title>
+      <link>http://localhost:1313/web/es/resources/the-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/es/resources/the-book/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

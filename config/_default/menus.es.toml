@@ -51,13 +51,13 @@
   weight = 2
 
 [[main]]
-  name = "Cortometrajes"
+  name = "Kit de Incidencia"
   parent = "resources"
-  pageRef = "/resources/short-film-series"
+  pageRef = "/resources/advocacy-toolkit"
   weight = 3
 
 [[main]]
-  name = "El Libro"
+  name = "Proyectos de Libros"
   parent = "resources"
   pageRef = "/resources/the-book"
   weight = 4

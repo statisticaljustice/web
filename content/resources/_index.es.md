@@ -1,13 +1,18 @@
 +++
-title = "Materiales de Aprendizaje"
-description = "Recursos en desarrollo diseñados para hacer que estas ideas sean más útiles y accesibles."
-type = "page"
+title = "Recursos"
+description = "Recursos en desarrollo diseñados para hacer estas ideas más accesibles para la enseñanza, la incidencia y la práctica."
+showTableOfContents = true
+showRecent = false
+showDate = false
+showWordCount = false
+showReadingTime = false
+[cascade]
+  showDate = false
+  showReadingTime = false
+  showWordCount = false
+  groupByYear = false
 +++
 
-Esta página reúne los recursos educativos y prácticos que se están desarrollando como parte del proyecto de Justicia Estadística. El marco no es solo una agenda de investigación, sino también una herramienta para la enseñanza y la reflexión institucional.
+Esta página reúne los recursos educativos y prácticos que se están desarrollando como parte del proyecto de Justicia Estadística. Si bien el marco de trabajo comenzó como una agenda de investigación e incidencia, también tiene la intención de convertirse en una herramienta para la enseñanza, el aprendizaje y la reflexión institucional.
 
-Con el tiempo, este espacio incluirá materiales como infografías, guías y documentos pedagógicos que ayudarán a explicar el marco para su uso en distintos contextos.
-
-*Un primer recurso visual estará disponible aquí pronto.*
-
-{{< button href="/es/recursos/el-mooc" >}}Explora El MOOC{{< /button >}}
+En lugar de funcionar únicamente como un concepto de investigación, la Justicia Estadística también pretende convertirse en algo que pueda ser enseñado, discutido y aplicado. Con el tiempo, este espacio incluirá materiales como explicaciones visuales, guías y documentos pedagógicos breves.
