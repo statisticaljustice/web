@@ -29,7 +29,7 @@
 [[main]]
   name = "Policy Briefs"
   parent = "publications"
-  pageRef = "/publications/policy-brief"
+  pageRef = "/publications/policy-briefs"
   weight = 3
 
 [[main]]

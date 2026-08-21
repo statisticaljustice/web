@@ -51,21 +51,6 @@ This policy brief translates the findings of a qualitative study with trans and 
 
 This policy brief explains how statistical invisibility produces concrete harms for trans and non-binary people in Colombia: transfeminicides disappear from official data, inconsistencies between government records create barriers to services, and public policies are designed without adequate evidence. It identifies a timely window for reform and calls for coordinated government action, meaningful participation by trans communities, and strong safeguards against surveillance and misuse of personal data.
 
-Read the policy brief in Spanish
-
-{{< button href="pdf/infografia.pdf" target="_blank" >}} 
-Read the policy brief in Spanish
-{{< /button >}}
-
-<br>
-
-<a href="pdf/infografia.pdf" download class="text-primary-500 font-bold hover:underline">
-  Descargar Documento PDF
-</a>
-
-<br>
-
-[Read the policy brief in Spanish](pdf/Infografia.pdf)
-
+[Read the policy brief in Spanish](https://statisticaljustice.github.io/web/pdf/infografia.pdf)
 
 ---
