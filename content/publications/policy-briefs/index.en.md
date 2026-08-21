@@ -53,19 +53,19 @@ This policy brief explains how statistical invisibility produces concrete harms 
 
 Read the policy brief in Spanish
 
-{{< button href="/pdf/infografia.pdf" target="_blank" >}} 
+{{< button href="pdf/infografia.pdf" target="_blank" >}} 
 Read the policy brief in Spanish
 {{< /button >}}
 
 <br>
 
-<a href="/pdf/infografia.pdf" download class="text-primary-500 font-bold hover:underline">
+<a href="pdf/infografia.pdf" download class="text-primary-500 font-bold hover:underline">
   Descargar Documento PDF
 </a>
 
 <br>
 
-[Read the policy brief in Spanish](/pdf/Infografia.pdf)
+[Read the policy brief in Spanish](pdf/Infografia.pdf)
 
 
 ---
