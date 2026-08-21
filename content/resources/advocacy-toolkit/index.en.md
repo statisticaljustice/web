@@ -68,19 +68,19 @@ A set of short messages and visual materials for campaigns, workshops, social me
 
 A practical introduction to community, technical, political, and communication strategies for advancing statistical justice. It proposes five complementary routes: community education, documentation of experiences, dialogue with institutions, citizen oversight, and public communication.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_1)
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_1.pdf)
 
 ### Community meeting record
 
 A printable template for organizing community or advocacy meetings. It helps participants define the problem they want to transform, identify the institutions involved, agree on priority actions, assign responsibilities, and establish dates for follow-up.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_2)
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_2.pdf)
 
 ### Email to public institutions
 
 A simple template for contacting government institutions, requesting information, proposing a meeting, presenting a concern, or asking for a specific institutional commitment. It helps advocates communicate the problem, the request, and the proposed next step clearly.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_3)
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_3.pdf)
 
 
 ---
