@@ -24,6 +24,6 @@ El libro responde a un momento regional especialmente urgente. Los movimientos y
 
 El proyecto busca reunir a colaboradores de toda la región, fortalecer las conexiones entre organizaciones lideradas por personas trans y contribuir a una agenda latinoamericana compartida para la justicia estadística. Al conectar experiencias entre países, tiene como objetivo apoyar la reflexión colectiva, la solidaridad regional y nuevas estrategias para proteger y promover el reconocimiento, los derechos y el cambio institucional.
 
-![Book project, a space to bring together research, community knowledge, memory, and political reflection on statistical justice.](img/0thebook.webp)
+{{< figure src="img/0thebook.webp" alt="Book project, a space to bring together research, community knowledge, memory, and political reflection on statistical justice." caption="Book project, a space to bring together research, community knowledge, memory, and political reflection on statistical justice." >}}
 
 ---

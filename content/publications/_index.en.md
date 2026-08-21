@@ -8,8 +8,8 @@ showWordCount = false
 showReadingTime = false
 [cascade]
   showDate = false
-  showReadingTime = false
-  showWordCount = false
+  showReadingTime = true
+  showWordCount = true
   groupByYear = false
 +++
 
@@ -17,4 +17,6 @@ This section brings together the academic, technical, and public-facing work tha
 
 The project began from questions around gender identity, official statistics, and the failures of recognition built into state data systems. 
 
-![Descripción para accesibilidad](img/home.webp)
+{{< figure src="img/home.webp" alt="Our existence is not a debate" caption="Our existence is not a debate" >}}
+
+---

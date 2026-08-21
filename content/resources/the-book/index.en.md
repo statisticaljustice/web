@@ -23,6 +23,6 @@ Invisibilizades is a proposed multi-voice book about what happens when trans and
 The book responds to an especially urgent regional moment. Anti-gender movements and narratives are challenging the legitimacy of trans identities, weakening public commitments to equality, and placing hard-won but still fragile advances in law, policy, and institutional recognition at risk. In this context, documenting how trans communities have been counted, erased, protected, and exposed is not only an exercise in research and memory; it is also a strategy for defending rights and preserving the gains that communities have built.
 The project seeks to bring together contributors from across the region, strengthen connections among trans-led organizations, and contribute to a shared Latin American agenda for statistical justice. By connecting experiences across countries, it aims to support collective reflection, regional solidarity, and new strategies for protecting and advancing recognition, rights, and institutional change.
 
-![Book project, a space to bring together research, community knowledge, memory, and political reflection on statistical justice.](img/0thebook.webp)
+{{< figure src="img/0thebook.webp" alt="Proyecto de libro, un espacio para reunir investigación, conocimiento comunitario, memoria y reflexión política sobre la justicia estadística." caption="Proyecto de libro, un espacio para reunir investigación, conocimiento comunitario, memoria y reflexión política sobre la justicia estadística." >}}
 
 ---

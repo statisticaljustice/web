@@ -42,10 +42,9 @@ Our work examines civil registration, vital statistics, identity documents, heal
 
 Trans people are not simply participants or sources of data in this work. Our experiences, leadership, questions, and forms of knowledge shape what is studied, how findings are interpreted, and what institutional changes are proposed.
 
-![Research is built collectively, bringing together community leaders, researchers, institutions, and allies.](img/0ourwork.webp)
-![Community knowledge and lived experience shape the questions we ask and the evidence we produce](img/1ourwork.webp)
+{{< figure src="img/0ourwork.webp" alt="Research is built collectively, bringing together community leaders, researchers, institutions, and allies." caption="Research is built collectively, bringing together community leaders, researchers, institutions, and allies." >}}
 
----
+{{< figure src="img/1ourwork.webp" alt="Community knowledge and lived experience shape the questions we ask and the evidence we produce" caption="Community knowledge and lived experience shape the questions we ask and the evidence we produce." >}}
 
 ## We translate knowledge into tools for action
 
@@ -55,8 +54,9 @@ These materials help trans-led organizations, public officials, researchers, jou
 
 Through open learning resources and practical tools, we seek to ensure that knowledge about statistical justice does not remain confined to universities or technical institutions.
 
-![Turning complex information into accessible tools for learning, advocacy, and action.](img/2ourwork.webp)
-![Practical resources help translate evidence into conversations that can support institutional change](img/3ourwork.webp)
+{{< figure src="img/2ourwork.webp" alt="Turning complex information into accessible tools for learning, advocacy, and action." caption="Turning complex information into accessible tools for learning, advocacy, and action." >}}
+
+{{< figure src="img/3ourwork.webp" alt="Practical resources help translate evidence into conversations that can support institutional change" caption="Practical resources help translate evidence into conversations that can support institutional change" >}}
 
 ---
 
@@ -68,9 +68,11 @@ We use op-eds, podcasts, public events, short videos, social media, book project
 
 Changing public narratives is part of changing institutions. When statistical invisibility becomes recognizable as a matter of rights and good governance, new forms of public action become possible.
 
-![Storytelling connects official data with memory, dignity, recognition, and lived experience.](img/4ourwork.webp)
-![Public conversations bring questions of data, rights, and recognition to wider audiences.](img/5ourwork.webp)
-![Public writing brings statistical invisibility and recognition into broader public debate.](img/6ourwork.webp)
+{{< figure src="img/4ourwork.webp" alt="Storytelling connects official data with memory, dignity, recognition, and lived experience." caption="Storytelling connects official data with memory, dignity, recognition, and lived experience." >}}
+
+{{< figure src="img/5ourwork.webp" alt="Public conversations bring questions of data, rights, and recognition to wider audiences." caption="Public conversations bring questions of data, rights, and recognition to wider audiences." >}}
+
+{{< figure src="img/6ourwork.webp" alt="Public writing brings statistical invisibility and recognition into broader public debate." caption="Public writing brings statistical invisibility and recognition into broader public debate." >}}
 
 ---
 
@@ -82,8 +84,9 @@ We also bring this agenda to academic and international conferences, where evide
 
 These spaces allow us to present evidence, identify institutional responsibilities, understand implementation challenges, build shared recommendations, and follow up on public commitments. We work to move conversations from general recognition toward concrete changes in regulations, procedures, information systems, and public policy.
 
-![Evidence enters decision-making through sustained dialogue with communities and public institutions.](img/7ourwork.webp)
-![Bringing statistical justice into spaces where research, policy, and institutional reform are debated.](img/8ourwork.webp)
+{{< figure src="img/7ourwork.webp" alt="Evidence enters decision-making through sustained dialogue with communities and public institutions." caption="Evidence enters decision-making through sustained dialogue with communities and public institutions." >}}
+
+{{< figure src="img/8ourwork.webp" alt="Bringing statistical justice into spaces where research, policy, and institutional reform are debated." caption="Bringing statistical justice into spaces where research, policy, and institutional reform are debated." >}}
 
 ---
 
@@ -95,8 +98,9 @@ We create spaces where trans-led organizations, activists, researchers, public i
 
 These spaces create relationships, shared commitments, and mechanisms for coordination and follow-up, allowing the work to continue beyond a single meeting, event, or project.
 
-![ublic spaces create new ways to connect knowledge, memory, visibility, and collective action.](img/9ourwork.webp)
-![ublic spaces create new ways to connect knowledge, memory, visibility, and collective action.](img/10ourwork.webp)
+{{< figure src="img/9ourwork.webp" alt="Public spaces create new ways to connect knowledge, memory, visibility, and collective action." >}}
+
+{{< figure src="img/10ourwork.webp" alt="Public spaces create new ways to connect knowledge, memory, visibility, and collective action." caption="Public spaces create new ways to connect knowledge, memory, visibility, and collective action." >}}
 
 ---
 
@@ -108,7 +112,8 @@ This work includes mapping data flows, reviewing forms and administrative proced
 
 Technical accuracy and community participation must advance together. A system can only produce statistical justice when it recognizes people with dignity, protects sensitive information, and creates data that can support rights and public action.
 
-![Building institutional change through dialogue, evidence, coordination, and shared commitments.](img/11ourwork.webp)
+{{< figure src="img/11ourwork.webp" alt="Building institutional change through dialogue, evidence, coordination, and shared commitments." caption="Building institutional change through dialogue, evidence, coordination, and shared commitments." >}}
+
 
 ---
 
@@ -126,6 +131,6 @@ Statistical justice is how we connect community knowledge, scientific evidence, 
 
 From Liga de Salud Trans, we are building an agenda that moves from identifying statistical exclusion to transforming the systems that produce it. Our goal is not simply to appear in official data. It is to be recognized with dignity, to influence the decisions that affect our lives, and to ensure that information becomes a tool for rights, care, memory, and protection.
 
-![Statistical justice begins in local realities and connects them to wider struggles for recognition.](img/bg.webp)
+{{< figure src="img/bg.webp" alt="Statistical justice begins in local realities and connects them to wider struggles for recognition." caption="Statistical justice begins in local realities and connects them to wider struggles for recognition." >}}
 
 ---
