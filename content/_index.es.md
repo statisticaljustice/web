@@ -8,10 +8,6 @@ description = "El derecho a ser reconocido en los sistemas gubernamentales, y a 
 
 {{< button href="https://statisticaljustice.github.io/web/the-framework/" >}}Explora el Marco de Trabajo{{< /button >}}
 
-<br>
-<br>
-
-
 {{< button href="https://statisticaljustice.github.io/web/publications/academic-papers/" style="outline" >}}Lee la Investigación{{< /button >}}
 
 ---

@@ -8,9 +8,6 @@ description = "The right to be recognized in government systems, and for officia
 
 {{< button href="https://statisticaljustice.github.io/web/the-framework/" >}}Explore the Framework{{< /button >}}
 
-<br>
-<br>
-
 {{< button href="https://statisticaljustice.github.io/web/publications/academic-papers/" style="outline" >}}Read the Research{{< /button >}}
 
 ---
