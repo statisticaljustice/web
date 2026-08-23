@@ -17,6 +17,4 @@ Esta sección reúne el trabajo académico, técnico y de divulgación que ha ay
 
 El proyecto surgió a partir de preguntas sobre identidad de género, estadísticas oficiales y las fallas de reconocimiento integradas en los sistemas de datos del Estado. 
 
-{{< figure src="img/home.webp" alt="Nuestra existencia no es un debate" caption="Nuestra existencia no es un debate" >}}
-
----
+{{< figure src="img/home.webp" alt="Nuestra existencia no es un debate" >}}

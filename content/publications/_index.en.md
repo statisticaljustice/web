@@ -18,5 +18,3 @@ This section brings together the academic, technical, and public-facing work tha
 The project began from questions around gender identity, official statistics, and the failures of recognition built into state data systems. 
 
 {{< figure src="img/home.webp" alt="Our existence is not a debate" caption="Our existence is not a debate" >}}
-
----
