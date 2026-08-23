@@ -30,7 +30,7 @@ A short introduction to vital statistics, the institutions involved in producing
 
 This resource maps how information is recorded and circulated from birth to death across Colombia’s civil registration, identification, health, forensic, and vital statistics systems. It identifies points where trans and non-binary people may be made invisible, misclassified, or erased from official data.
 
-Download resource in Spanish
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/informacion_sexo_generica_en_los_sioc.pdf)
 
 ### Advocacy glossary
 
@@ -46,7 +46,7 @@ A practical glossary of key concepts for discussing statistical justice, includi
 
 A collection of clear, firm, and careful responses to common objections about gender identity and official statistics. The resource helps advocates respond to misinformation, explain why better data matter, and address legitimate concerns about privacy, protection, and the potential misuse of information.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/)
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/comentarios_y_resp.pdf)
 
 ### Elevator speech
 
@@ -58,7 +58,7 @@ A short suggested explanation of why vital statistics matter and how the exclusi
 
 A set of short messages and visual materials for campaigns, workshops, social media, and public events. The messages connect data with dignity, recognition, protection, and the right of trans and non-binary people to be counted accurately.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/)
+[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/mensajes_y_redes.pdf)
 
 ---
 
