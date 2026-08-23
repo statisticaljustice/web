@@ -1,7 +1,6 @@
 +++
 title = "Justicia Estadística"
 description = "El derecho a ser reconocido en los sistemas gubernamentales, y a que los datos oficiales reflejen la verdadera diversidad de las sociedades."
-layout = "page"
 +++
 {{< lead >}}
 **Un marco de trabajo desarrollado a partir de experiencias en Colombia y diseñado para aplicarse en diversos contextos.**

@@ -1,7 +1,6 @@
 +++
 title = "Statistical Justice"
 description = "The right to be recognized in government systems, and for official data to reflect the true diversity of societies."
-layout = "background"
 +++
 {{< lead >}}
 **A framework developed from work in Colombia and designed to travel across contexts.**

@@ -29,7 +29,7 @@ This op-ed introduces the idea of Statistical Justice in relation to the exclusi
 
 This op-ed reflects on memory, recognition, and the consequences of losing identity within state records. It connects official documentation to dignity, remembrance, and the ways institutions can continue to erase people even after death.
 
-[Read op-ed in Spanish](https://statisticaljustice.github.io/web/publications/op-eds/#)
+[Read op-ed in Spanish](https://www.elespectador.com/genero-y-diversidad/la-disidencia/memoria-trans-cuando-la-identidad-se-pierde-en-los-registros-oficiales-opinion/)
 
 ---
 

@@ -24,19 +24,19 @@ The resources can be used independently or together in workshops, meetings, camp
 
 A short introduction to vital statistics, the institutions involved in producing them, and their importance for public policy and the protection of rights. It explains why the inclusion of trans and non-binary people in official data is necessary for building more inclusive, respectful, and secure information systems.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/estadisticas_vitales_y_personas_trans.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/estadisticas_vitales_y_personas_trans.pdf)
 
 ### The journey of sex and gender information through Colombia’s official systems
 
 This resource maps how information is recorded and circulated from birth to death across Colombia’s civil registration, identification, health, forensic, and vital statistics systems. It identifies points where trans and non-binary people may be made invisible, misclassified, or erased from official data.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/informacion_sexo_generica_en_los_sioc.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/informacion_sexo_generica_en_los_sioc.pdf)
 
 ### Advocacy glossary
 
 A practical glossary of key concepts for discussing statistical justice, including gender identity, vital statistics, civil registration, data quality, interoperability, sensitive data, and statistical invisibility. Each definition explains why the concept matters for advocacy and public decision-making.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/glosario_para_la_incidencia.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/glosario_para_la_incidencia.pdf)
 
 ---
 
@@ -46,19 +46,19 @@ A practical glossary of key concepts for discussing statistical justice, includi
 
 A collection of clear, firm, and careful responses to common objections about gender identity and official statistics. The resource helps advocates respond to misinformation, explain why better data matter, and address legitimate concerns about privacy, protection, and the potential misuse of information.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/comentarios_y_resp.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/comentarios_y_resp.pdf)
 
 ### Elevator speech
 
 A short suggested explanation of why vital statistics matter and how the exclusion or misclassification of trans and non-binary people affects public policy. It can be used in meetings, presentations, interviews, workshops, and informal conversations.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/elevator_speech.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/elevator_speech.pdf)
 
 ### Campaign messages and visual resources
 
 A set of short messages and visual materials for campaigns, workshops, social media, and public events. The messages connect data with dignity, recognition, protection, and the right of trans and non-binary people to be counted accurately.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/mensajes_y_redes.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/mensajes_y_redes.pdf)
 
 ---
 
@@ -68,19 +68,19 @@ A set of short messages and visual materials for campaigns, workshops, social me
 
 A practical introduction to community, technical, political, and communication strategies for advancing statistical justice. It proposes five complementary routes: community education, documentation of experiences, dialogue with institutions, citizen oversight, and public communication.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_1.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_1.pdf)
 
 ### Community meeting record
 
 A printable template for organizing community or advocacy meetings. It helps participants define the problem they want to transform, identify the institutions involved, agree on priority actions, assign responsibilities, and establish dates for follow-up.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_2.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_2.pdf)
 
 ### Email to public institutions
 
 A simple template for contacting government institutions, requesting information, proposing a meeting, presenting a concern, or asking for a specific institutional commitment. It helps advocates communicate the problem, the request, and the proposed next step clearly.
 
-[Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_3.pdf)
+> [Download resource in Spanish](https://statisticaljustice.github.io/web/pdf/herramientas_para_la_incidencia_parte_3.pdf)
 
 
 ---

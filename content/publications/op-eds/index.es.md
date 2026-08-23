@@ -29,7 +29,7 @@ Esta columna de opinión introduce la idea de Justicia Estadística en relación
 
 Este artículo reflexiona sobre la memoria, el reconocimiento y las consecuencias de perder la identidad dentro de los registros estatales. Conecta la documentación oficial con la dignidad, el recuerdo y las formas en que las instituciones pueden continuar borrando a las personas incluso después de la muerte.
 
-[Leer artículo en español](https://statisticaljustice.github.io/web/publications/op-eds/#)
+[Leer artículo en español](https://www.elespectador.com/genero-y-diversidad/la-disidencia/memoria-trans-cuando-la-identidad-se-pierde-en-los-registros-oficiales-opinion/)
 
 ---
 
