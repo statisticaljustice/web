@@ -1,4 +1,4 @@
-colorScheme = "princess" # valid options: forest, ocean, desert, dawn, dusk, night, coal, snow, custom
+colorScheme = "github" # valid options: forest, ocean, desert, dawn, dusk, night, coal, snow, custom
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
