@@ -7,11 +7,6 @@ description = "The right to be recognized in government systems, and for officia
 {{< /lead >}}
 
 {{< button href="https://statisticaljustice.github.io/web/the-framework/" >}}Explore the Framework{{< /button >}}
-
-<br>
-<br>
-
-
 {{< button href="https://statisticaljustice.github.io/web/publications/academic-papers/" style="outline" >}}Read the Research{{< /button >}}
 
 ---
@@ -27,26 +22,6 @@ Official data systems do not always recognize people as they are. Trans and non-
 These are not simply technical errors. Official data shape what governments can see, measure, fund, and address. When recognition fails, inequalities become harder to trace, violence and exclusion can disappear from official statistics, and public policies are built on incomplete representations of society.
 
 Statistical Justice addresses a fundamental question: who is recognized in government systems, on what terms, and with what consequences? The framework helps examine how official data can better reflect the diversity of societies while advancing recognition, redistribution, and protection.
-
----
-
-## Explore Our Work
-
-[**The Framework**](https://statisticaljustice.github.io/web/the-framework/)
-<br>
-An introduction to the concept of statistical justice, its dimensions, and the key ideas that shape it.
-
-[**Publications**](https://statisticaljustice.github.io/web/publications/)
-<br>
-Academic papers, technical documents, policy briefs, and public writing.
-
-[**Resources**](https://statisticaljustice.github.io/web/resources/)
-<br>
-Learning materials, podcast, and other materials.
-
-[**Contact Us**](https://statisticaljustice.github.io/web/contact-us/)
-<br>
-Get in touch.
 
 ---
 

@@ -30,26 +30,6 @@ La Justicia Estadística aborda una pregunta fundamental: ¿quién es reconocido
 
 ---
 
-## Explora Nuestro Trabajo
-
-[**El Marco de Trabajo**](https://statisticaljustice.github.io/web/the-framework/)
-<br>
-Una introducción al concepto de justicia estadística, sus dimensiones y las ideas clave que le dan forma.
-
-[**Publicaciones**](https://statisticaljustice.github.io/web/publications/)
-<br>
-Artículos académicos, documentos técnicos, resúmenes de políticas públicas y escritos de divulgación.
-
-[**Recursos**](https://statisticaljustice.github.io/web/resources/)
-<br>
-Materiales de aprendizaje, pódcasts y otros recursos.
-
-[**Contáctanos**](https://statisticaljustice.github.io/web/contact-us/)
-<br>
-Ponte en contacto.
-
----
-
 {{< badge >}}
 Justicia Estadística ha sido desarrollada por:
 {{< /badge >}} 

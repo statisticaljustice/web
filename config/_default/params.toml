@@ -1,9 +1,9 @@
-colorScheme = "noir" # valid options: forest, ocean, desert, dawn, dusk, night, coal, snow, custom
+colorScheme = "princess" # valid options: forest, ocean, desert, dawn, dusk, night, coal, snow, custom
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
-enableA11y = false
-enableSearch = false
+enableA11y = true
+enableSearch = true
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
 enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
@@ -21,9 +21,9 @@ hotlinkFeatureImage = false # if true, the original image will be used as the fe
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
 # thumbnailAspectRatio = "1.5"
 # imagePosition = "50% 50%"
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
@@ -31,7 +31,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
 
 [footer]
   showMenu = true
@@ -50,7 +51,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   cardView = true
   cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
-  disableHeroImageFilter = true # only used when layout equals hero
+  disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
   showDate = true
@@ -60,7 +61,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showDateUpdated = false
   showAuthor = true
   # showAuthorBottom = false
-  showHero = false
+  showHero = "big"
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -84,7 +85,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  showZenMode = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
@@ -97,12 +98,13 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
+  featureImageHover = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -130,7 +132,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   showTableOfContents = true
   groupByYear = false
   cardView = false
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
 
 [firebase]
   # apiKey = "XXXXXX"
