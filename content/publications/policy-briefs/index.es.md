@@ -51,6 +51,6 @@ Este resumen de políticas públicas traduce los hallazgos de un estudio cualita
 
 Este resumen de políticas públicas explica cómo la invisibilidad estadística produce daños concretos para las personas trans y no binarias en Colombia: los transfeminicidios desaparecen de los datos oficiales, las inconsistencias entre los registros gubernamentales crean barreras de acceso a los servicios, y las políticas públicas se diseñan sin evidencia adecuada. Identifica una oportunidad oportuna para la reforma y hace un llamado a la acción gubernamental coordinada, la participación significativa de las comunidades trans y el establecimiento de salvaguardas sólidas contra la vigilancia y el mal uso de los datos personales.
 
-Leer el resumen de políticas públicas en español
+[Leer el resumen de políticas públicas en español](https://statisticaljustice.github.io/web/pdf/infografia.pdf)
 
 ---
