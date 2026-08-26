@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recursos on Justicia Estadística</title>
-    <link>http://localhost:1313/web/es/resources/</link>
+    <link>http://localhost:1313/es/resources/</link>
     <description>Recent content in Recursos on Justicia Estadística</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/web/es/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/resources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>El MOOC</title>
-      <link>http://localhost:1313/web/es/resources/mooc/</link>
+      <link>http://localhost:1313/es/resources/mooc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/web/es/resources/mooc/</guid>
+      <guid>http://localhost:1313/es/resources/mooc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kit de Incidencia</title>
-      <link>http://localhost:1313/web/es/resources/advocacy-toolkit/</link>
+      <link>http://localhost:1313/es/resources/advocacy-toolkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/web/es/resources/advocacy-toolkit/</guid>
+      <guid>http://localhost:1313/es/resources/advocacy-toolkit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pódcasts y Conversaciones Públicas</title>
-      <link>http://localhost:1313/web/es/resources/podcast/</link>
+      <link>http://localhost:1313/es/resources/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/web/es/resources/podcast/</guid>
+      <guid>http://localhost:1313/es/resources/podcast/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Proyectos de Libros</title>
-      <link>http://localhost:1313/web/es/resources/the-book/</link>
+      <link>http://localhost:1313/es/resources/the-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/web/es/resources/the-book/</guid>
+      <guid>http://localhost:1313/es/resources/the-book/</guid>
       <description></description>
       
     </item>
