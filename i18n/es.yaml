@@ -49,7 +49,7 @@ error:
 footer:
   dark_appearance: "Cambiar a modo oscuro"
   light_appearance: "Cambiar a modo claro"
-  powered_by: "Por <a class='hover:underline hover:decoration-primary-500 hover:text-primary-500' href='https://salocin-vh.github.io/cv/' target='_blank' rel='noopener'>salocinvh</a> con {{ .Hugo }} &amp; {{ .Theme }}"
+  powered_by: "Por salocinvh con {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
   externalurl_title: "Enlace a página externa"
