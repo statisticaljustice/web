@@ -31,11 +31,11 @@ description = "The right to be recognized in government systems, and for officia
   
   <div style="text-align: center;">
     <span style="font-size: 0.75rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600;">Developed by</span><br><br>
-    <img src="img/logoligadesaludtrans.webp" alt="Logo Liga de Salud Trans" style="height: 60px; width: auto; object-fit: contain; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));">
+    <img src="img/logoligadesaludtransB.webp" alt="Logo Liga de Salud Trans" style="height: 60px; width: auto; object-fit: contain; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));">
   </div>
 
   <div style="text-align: center;">
     <span style="font-size: 0.75rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600;">With the support of</span><br><br>
-    <img src="img/logouniandes.webp" alt="Logo Universidad Los Andes" style="height: 60px; width: auto; object-fit: contain; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));">
+    <img src="img/logouniandesB.webp" alt="Logo Universidad Los Andes" style="height: 60px; width: auto; object-fit: contain; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));">
   </div>
 </div>
