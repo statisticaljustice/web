@@ -86,7 +86,7 @@ También llevamos esta agenda a conferencias académicas e internacionales, dond
 
 Estos espacios nos permiten presentar evidencia, identificar responsabilidades institucionales, comprender los desafíos de implementación, construir recomendaciones compartidas y dar seguimiento a los compromisos públicos. Trabajamos para pasar de las conversaciones sobre el reconocimiento general hacia cambios concretos en regulaciones, procedimientos, sistemas de información y políticas públicas.
 
-{{< figure src="img/7ourwork.webp" alt="La evidencia se integra en la toma de decisiones a través del diálogo sostenido con las comunidades y las instituciones públicas." caption="La evidencia se integra en la toma de decisiones a través del diálogo sostenido con las comunidades y las instituciones públicas." >}}
+{{< figure src="img/11ourwork.webp" alt="Construyendo el cambio institucional a través del diálogo, la evidencia, la coordinación y los compromisos compartidos." caption="Construyendo el cambio institucional a través del diálogo, la evidencia, la coordinación y los compromisos compartidos." >}}
 
 {{< figure src="img/8ourwork.webp" alt="Llevar la justicia estadística a los espacios donde se debaten la investigación, las políticas públicas y la reforma institucional." caption="Llevar la justicia estadística a los espacios donde se debaten la investigación, las políticas públicas y la reforma institucional." >}}
 
@@ -114,7 +114,7 @@ Este trabajo incluye el mapeo de flujos de datos, la revisión de formularios y 
 
 La precisión técnica y la participación comunitaria deben avanzar juntas. Un sistema solo puede producir justicia estadística cuando reconoce a las personas con dignidad, protege la información sensible y crea datos que pueden respaldar los derechos y la acción pública.
 
-{{< figure src="img/11ourwork.webp" alt="Construyendo el cambio institucional a través del diálogo, la evidencia, la coordinación y los compromisos compartidos." caption="Construyendo el cambio institucional a través del diálogo, la evidencia, la coordinación y los compromisos compartidos." >}}
+{{< figure src="img/7ourwork.webp" alt="La evidencia se integra en la toma de decisiones a través del diálogo sostenido con las comunidades y las instituciones públicas." caption="La evidencia se integra en la toma de decisiones a través del diálogo sostenido con las comunidades y las instituciones públicas." >}}
 
 ---
 

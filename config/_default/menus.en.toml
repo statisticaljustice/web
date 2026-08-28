@@ -15,7 +15,7 @@
   weight = 30
 
 [[main]]
-  name = "Academic Papers"
+  name = "Academic Publications"
   parent = "publications"
   pageRef = "/publications/academic-papers"
   weight = 1

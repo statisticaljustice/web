@@ -84,7 +84,7 @@ We also bring this agenda to academic and international conferences, where evide
 
 These spaces allow us to present evidence, identify institutional responsibilities, understand implementation challenges, build shared recommendations, and follow up on public commitments. We work to move conversations from general recognition toward concrete changes in regulations, procedures, information systems, and public policy.
 
-{{< figure src="img/7ourwork.webp" alt="Evidence enters decision-making through sustained dialogue with communities and public institutions." caption="Evidence enters decision-making through sustained dialogue with communities and public institutions." >}}
+{{< figure src="img/11ourwork.webp" alt="Building institutional change through dialogue, evidence, coordination, and shared commitments." caption="Building institutional change through dialogue, evidence, coordination, and shared commitments." >}}
 
 {{< figure src="img/8ourwork.webp" alt="Bringing statistical justice into spaces where research, policy, and institutional reform are debated." caption="Bringing statistical justice into spaces where research, policy, and institutional reform are debated." >}}
 
@@ -112,8 +112,7 @@ This work includes mapping data flows, reviewing forms and administrative proced
 
 Technical accuracy and community participation must advance together. A system can only produce statistical justice when it recognizes people with dignity, protects sensitive information, and creates data that can support rights and public action.
 
-{{< figure src="img/11ourwork.webp" alt="Building institutional change through dialogue, evidence, coordination, and shared commitments." caption="Building institutional change through dialogue, evidence, coordination, and shared commitments." >}}
-
+{{< figure src="img/7ourwork.webp" alt="Evidence enters decision-making through sustained dialogue with communities and public institutions." caption="Evidence enters decision-making through sustained dialogue with communities and public institutions." >}}
 
 ---
 

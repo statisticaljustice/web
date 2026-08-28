@@ -1,5 +1,5 @@
 +++
-title = "Academic Papers"
+title = "Academic Publications"
 description = "Peer-reviewed articles moving between empirical research, conceptual development, and policy relevance."
 weight = 1
 showTableOfContents = false
@@ -25,6 +25,18 @@ This peer-reviewed article examines how transgender identities are erased in Col
 
 ---
 
+## Between Statistical Invisibility and Surveillance: Data, Gender Identity, and the Right to Health
+
+> **Authors:** Health and Human Rights Journal
+>
+> **Year:** 2026
+
+This viewpoint examines the tension between statistical invisibility and surveillance in the collection of gender identity data. It argues that improving visibility can support health equity and rights, but requires strong safeguards, community participation, and clear purposes for data collection so that recognition does not create new forms of harm.
+
+[Read article in English](https://www.hhrjournal.org/2026/08/24/between-statistical-invisibility-and-surveillance-data-gender-identity-and-the-right-to-health/)
+
+---
+
 ## When Populations Are Not Counted: Statistical Justice and Gender-Identity Data in Colombia’s Official Statistics
 
 > **Authors:** Sebastian Leon-Giraldo, Francisca Sanchez Osorio, Nayib Chalela, Fernande Alvarez.
@@ -32,18 +44,6 @@ This peer-reviewed article examines how transgender identities are erased in Col
 > **Year:** 2026 | **Journal:** Data and Policy (Under Review)
 
 This manuscript introduces Statistical Justice as a framework for understanding how official statistics can reproduce or challenge inequality. Drawing on Colombia’s gender-identity data ecosystem, it examines the gap between legal recognition and everyday data practice, and argues that inclusion in official statistics must be designed in ways that enable recognition, redistribution, and protection.
-
-Available soon
-
----
-
-## Statistical Invisibility and Inclusive Development: A Narrative Review and Conceptual Framework for Understanding Gender Identity Exclusion across Official Data Systems
-
-> **Authors:** Sebastian Leon-Giraldo
-> 
-> **Year:** TBC | **Journal:** Progress in Development Studies (Under Review)
-
-This paper examines how the exclusion or misclassification of gender identity across official data systems produces statistical invisibility for transgender and gender-diverse populations. Through a narrative review, it shows how gaps in censuses, health surveillance, mortality records, violence statistics, resource allocation, and SDG monitoring reinforce one another and limit inclusive development.
 
 Available soon
 

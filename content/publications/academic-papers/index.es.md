@@ -1,5 +1,5 @@
 +++
-title = "Artículos Académicos"
+title = "Publicaciones Académicas"
 description = "Artículos revisados por pares que transitan entre la investigación empírica, el desarrollo conceptual y la relevancia en las políticas públicas."
 weight = 1
 showTableOfContents = false
@@ -25,6 +25,18 @@ Este artículo revisado por pares examina cómo se borran las identidades transg
 
 ---
 
+## Entre la invisibilidad estadística y la vigilancia: Datos, identidad de género y el derecho a la salud
+
+> **Autores:** Health and Human Rights Journal
+>
+> **Año:** 2026
+
+Este punto de vista examina la tensión entre la invisibilidad estadística y la vigilancia en la recopilación de datos de identidad de género. Argumenta que mejorar la visibilidad puede apoyar la equidad en salud y los derechos, pero requiere salvaguardas sólidas, participación comunitaria y propósitos claros para la recopilación de datos, de modo que el reconocimiento no cree nuevas formas de daño.
+
+[Leer artículo en inglés](https://www.hhrjournal.org/2026/08/24/between-statistical-invisibility-and-surveillance-data-gender-identity-and-the-right-to-health/)
+
+---
+
 ## Cuando las poblaciones no son contadas: Justicia Estadística y datos de identidad de género en las estadísticas oficiales de Colombia
 
 > **Autores:** Sebastian Leon-Giraldo, Francisca Sanchez Osorio, Nayib Chalela, Fernande Alvarez.
@@ -32,18 +44,6 @@ Este artículo revisado por pares examina cómo se borran las identidades transg
 > **Año:** 2026 | **Revista:** Data and Policy (En revisión)
 
 Este manuscrito presenta la Justicia Estadística como un marco de trabajo para comprender cómo las estadísticas oficiales pueden reproducir o desafiar la desigualdad. Basándose en el ecosistema de datos de identidad de género de Colombia, examina la brecha entre el reconocimiento legal y las prácticas cotidianas de datos, y argumenta que la inclusión en las estadísticas oficiales debe diseñarse de manera que permita el reconocimiento, la redistribución y la protección.
-
-Disponible pronto
-
----
-
-## Invisibilidad Estadística y Desarrollo Inclusivo: Una revisión narrativa y marco conceptual para comprender la exclusión de la identidad de género en los sistemas de datos oficiales
-
-> **Autores:** Sebastian Leon-Giraldo
-> 
-> **Año:** Por confirmar | **Revista:** Progress in Development Studies (En revisión)
-
-Este documento examina cómo la exclusión o clasificación errónea de la identidad de género en los sistemas de datos oficiales produce invisibilidad estadística para las poblaciones transgénero y de género diverso. A través de una revisión narrativa, muestra cómo las brechas en los censos, la vigilancia en salud, los registros de mortalidad, las estadísticas de violencia, la asignación de recursos y el monitoreo de los ODS se refuerzan mutuamente y limitan el desarrollo inclusivo.
 
 Disponible pronto
 
