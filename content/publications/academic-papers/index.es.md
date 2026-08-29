@@ -27,9 +27,9 @@ Este artículo revisado por pares examina cómo se borran las identidades transg
 
 ## Entre la invisibilidad estadística y la vigilancia: Datos, identidad de género y el derecho a la salud
 
-> **Autores:** Health and Human Rights Journal
+> **Autores:** Sebastián León-Giraldo, Juli Salamanca and Lina Quevedo
 >
-> **Año:** 2026
+> **Año:** 2026 | **Revista:** Health and Human Rights Journal
 
 Este punto de vista examina la tensión entre la invisibilidad estadística y la vigilancia en la recopilación de datos de identidad de género. Argumenta que mejorar la visibilidad puede apoyar la equidad en salud y los derechos, pero requiere salvaguardas sólidas, participación comunitaria y propósitos claros para la recopilación de datos, de modo que el reconocimiento no cree nuevas formas de daño.
 
