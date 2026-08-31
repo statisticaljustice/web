@@ -29,7 +29,7 @@ This peer-reviewed article examines how transgender identities are erased in Col
 
 > **Authors:** Sebastián León-Giraldo, Juli Salamanca and Lina Quevedo
 >
-> **Year:** 2026 | **Jornal:** Health and Human Rights Journal
+> **Year:** 2026 | **Journal:** Health and Human Rights Journal
 
 This viewpoint examines the tension between statistical invisibility and surveillance in the collection of gender identity data. It argues that improving visibility can support health equity and rights, but requires strong safeguards, community participation, and clear purposes for data collection so that recognition does not create new forms of harm.
 

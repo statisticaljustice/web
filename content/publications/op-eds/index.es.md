@@ -21,6 +21,16 @@ Este artículo presenta la justicia estadística como un tema de derechos humano
 
 ---
 
+## ¿Qué vidas cuentan en una democracia? El poder de decidir qué saber de las personas trans
+
+> **Medio:** El Espectador | **Fecha:** 27 de Agosto de 2026
+
+Examina cómo las decisiones políticas sobre lo que los Estados miden y hacen visible moldean su capacidad para comprender a la sociedad, y por qué proteger esa capacidad forma parte de proteger la democracia.
+
+[Leer artículo en español](https://www.elespectador.com/genero-y-diversidad/la-disidencia/que-vidas-cuentan-en-una-democracia-el-poder-de-decidir-que-saber-de-las-personas-trans-opinion/)
+
+---
+
 ## Lo que las experiencias trans revelan sobre la regulación digital fragmentada
 
 > **Medio:** Global Policy | **Fecha:** 24 de agosto de 2026

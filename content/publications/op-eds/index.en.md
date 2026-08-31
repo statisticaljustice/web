@@ -21,6 +21,17 @@ This article introduces statistical justice as a human rights issue. It examines
 
 ---
 
+## Which Lives Count in a Democracy? The Power to Decide What to Know About Trans People
+
+> **Media:** El Espectador | **Date:** 27 August 2026
+
+Examines how political decisions about what states measure and make visible shape their capacity to understand society, and why protecting that capacity is part of protecting democracy.
+
+[Read op-ed in Spanish](https://www.elespectador.com/genero-y-diversidad/la-disidencia/que-vidas-cuentan-en-una-democracia-el-poder-de-decidir-que-saber-de-las-personas-trans-opinion/)
+
+---
+
+
 ## What Trans Experiences Reveal About Fragmented Digital Regulation
 
 > **Global:** Policy | **Date:** 24 August 2026
