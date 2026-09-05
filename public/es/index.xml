@@ -40,6 +40,16 @@
     </item>
     
     <item>
+      <title>¡Mensaje Enviado!</title>
+      <link>http://localhost:1313/es/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/thanks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Contáctanos</title>
       <link>http://localhost:1313/es/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
