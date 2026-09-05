@@ -18,7 +18,7 @@ The course is being designed to introduce the framework in a clear, accessible, 
 
 **Interested in receiving updates about the course? Please get in touch.**
 
-<form action="YOUR_FORMSPREE_ENDPOINT" method="POST" class="flex flex-col gap-4 mt-4 max-w-md">
+<form action="https://formspree.io/f/xjyvojdn" method="POST" class="flex flex-col gap-4 mt-4 max-w-md">
   <input type="email" name="email" placeholder="Your Email Address" required class="p-2 border rounded border-gray-300 dark:border-gray-700 bg-transparent">
   <button type="submit" class="p-2 bg-primary-500 text-white rounded font-bold hover:bg-primary-600">Keep me updated</button>
 </form>
