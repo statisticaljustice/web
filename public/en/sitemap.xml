@@ -78,21 +78,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/thanks/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/thanks/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/thanks/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/our-work/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

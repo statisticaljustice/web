@@ -60,16 +60,6 @@
     </item>
     
     <item>
-      <title>Message Sent!</title>
-      <link>http://localhost:1313/thanks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/thanks/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Our Work</title>
       <link>http://localhost:1313/our-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
